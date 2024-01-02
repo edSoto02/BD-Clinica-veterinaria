@@ -49,4 +49,12 @@
 ![prov vac](https://github.com/edSoto02/BD-Clinica-veterinaria/assets/106222946/be3b6b49-3006-4243-9c6c-08a92c26b5e8)
 ![vacunaciones](https://github.com/edSoto02/BD-Clinica-veterinaria/assets/106222946/d70b9f7a-9be1-4926-94dc-16c4421fbc5b)
 
+### Creacion de Store Procedure para cada una de las tablas.
+![SPclientes](https://github.com/edSoto02/BD-Clinica-veterinaria/assets/106222946/29e8b995-6b3d-4e87-9ab5-29d8776e943c)
+
+
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
+
  
