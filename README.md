@@ -50,7 +50,30 @@
 ![vacunaciones](https://github.com/edSoto02/BD-Clinica-veterinaria/assets/106222946/d70b9f7a-9be1-4926-94dc-16c4421fbc5b)
 
 ### Creacion de Store Procedure para cada una de las tablas.
+
+Todos los Store procedure y las vistas se crearon desde la consola de SQL
+
 ![SPclientes](https://github.com/edSoto02/BD-Clinica-veterinaria/assets/106222946/29e8b995-6b3d-4e87-9ab5-29d8776e943c)
+
+
+## Probamos desde Oracle SQL Developer.
+## Para una mejor visualizacion de la base de datos.
+
+## Tablas:
+
+![1](https://github.com/edSoto02/BD-Clinica-veterinaria/assets/106222946/5e2d5fa0-73d9-497b-851b-941d5c3a9ff7)
+
+## Vistas:
+
+![vistas](https://github.com/edSoto02/BD-Clinica-veterinaria/assets/106222946/74e69381-0a75-4ee1-919b-f1c41108e859)
+
+## Store Procedure:
+
+![procd1](https://github.com/edSoto02/BD-Clinica-veterinaria/assets/106222946/7b6920e4-c740-4bdf-90bd-46367bf3725a)
+![prodc2](https://github.com/edSoto02/BD-Clinica-veterinaria/assets/106222946/357c9c53-a318-4cac-a1db-512eaaea311b)
+
+## Querys de prueba:
+
 
 
 <h4 align="center">
